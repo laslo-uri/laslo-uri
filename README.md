@@ -1,5 +1,4 @@
-<h2 style="text-align: center;">🏌Laslo Uri</h2>
-
+<h2 align="center">🏌Laslo Uri</h2>
 <p align="center"><strong><code>Developer/Filmmaker/Traveler</code></strong></p>
 
 I'm a Data Engineer and a Computer Science MSc student at the University of Novi Sad's Faculty of Technical Sciences. I also have a passion for filmmaking and cinematic arts. I'm dedicated to enhancing my skills in software development, including frontend, backend, and databases, as well as AI. Video creation and editing are among my greatest passions, with ten years of video editing experience. I have also worked as an Assistant Director on several short films and hope to continue in this role. Additionally, I have a keen interest in science, particularly physics and math, and I love traveling to experience diverse cultures.
