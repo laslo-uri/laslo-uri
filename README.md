@@ -85,8 +85,8 @@ I'm a Data Engineer and a Computer Science MSc student at the University of Novi
 
 <table>
 <tr>
-<td><img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="badge"></td>
-<td><img src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="badge"></td>
+<td><img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="badge" href="https://www.credly.com/earner/earned/badge/18d6b39a-0131-48d6-8f1f-767626384792"></td>
+<td><img src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="badge" href="https://www.credly.com/earner/earned/badge/067da0c0-d856-4d2a-b1c4-298b84fb0f68"></td>
 </tr>
 <tr>
 <td>Python Institute - Certified Associate in Python Programming - PCAP-30-03 (2023)</td>
@@ -94,8 +94,8 @@ I'm a Data Engineer and a Computer Science MSc student at the University of Novi
 
 </tr>
 
-<td><img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="badge"></td>
-<td><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="badge"></td>
+<td><img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" href="https://www.credly.com/earner/earned/badge/aa52b10b-83bb-43b0-92a4-599aaed5a876" alt="badge"></td>
+<td><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" href="https://www.credly.com/earner/earned/badge/0c128efb-a929-4656-99ac-dc2f31305252" alt="badge"></td>
 </tr>
 
 <tr>
