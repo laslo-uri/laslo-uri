@@ -1,4 +1,4 @@
-<h3 style="text-align: center;">🏌Laslo Uri</h3>
+<p align="center" style="font-size: 30px;">🏌Laslo Uri</p>
 
 <p align="center"><strong><code>Developer/Filmmaker/Traveler</code></strong></p>
 
