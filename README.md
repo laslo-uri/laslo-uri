@@ -1,4 +1,5 @@
-<h2 align="center">🏌Laslo Uri</h2>
+<h3 style="text-align: center;">🏌Laslo Uri</h3>
+
 <p align="center"><strong><code>Developer/Filmmaker/Traveler</code></strong></p>
 
 I'm a Data Engineer and a Computer Science MSc student at the University of Novi Sad's Faculty of Technical Sciences. I also have a passion for filmmaking and cinematic arts. I'm dedicated to enhancing my skills in software development, including frontend, backend, and databases, as well as AI. Video creation and editing are among my greatest passions, with ten years of video editing experience. I have also worked as an Assistant Director on several short films and hope to continue in this role. Additionally, I have a keen interest in science, particularly physics and math, and I love traveling to experience diverse cultures.
@@ -79,33 +80,63 @@ I'm a Data Engineer and a Computer Science MSc student at the University of Novi
 
 ---
 
-
 <p align="center" style="font-size: 20px;"><b>🎖️Certifications</b></p>
-
 
 <table>
 <tr>
-<td><img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="badge" href="https://www.credly.com/earner/earned/badge/18d6b39a-0131-48d6-8f1f-767626384792"></td>
-<td><img src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="badge" href="https://www.credly.com/earner/earned/badge/067da0c0-d856-4d2a-b1c4-298b84fb0f68"></td>
+<td>
+
+[<img src="https://images.credly.com/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png" alt="badge">](https://www.credly.com/earner/earned/badge/18d6b39a-0131-48d6-8f1f-767626384792)
+
+</td>
+<td>
+
+[<img src="https://images.credly.com/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" alt="badge">](https://www.credly.com/earner/earned/badge/067da0c0-d856-4d2a-b1c4-298b84fb0f68)
+</td>
+
 </tr>
 <tr>
-<td>Python Institute - Certified Associate in Python Programming - PCAP-30-03 (2023)</td>
-<td>Python Institute - Certified Entry-Level Python Programmer - PCEP-30-02 (2023)</td>
+
+<td>
+
+[Python Institute - Certified Associate in Python Programming - PCAP-30-03 (2023)](https://www.credly.com/earner/earned/badge/18d6b39a-0131-48d6-8f1f-767626384792)
+
+</td>
+<td>
+
+[Python Institute - Certified Entry-Level Python Programmer - PCEP-30-02 (2023)](https://www.credly.com/earner/earned/badge/067da0c0-d856-4d2a-b1c4-298b84fb0f68)
+
+</td>
 
 </tr>
 
-<td><img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" href="https://www.credly.com/earner/earned/badge/aa52b10b-83bb-43b0-92a4-599aaed5a876" alt="badge"></td>
-<td><img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" href="https://www.credly.com/earner/earned/badge/0c128efb-a929-4656-99ac-dc2f31305252" alt="badge"></td>
+<td>
+
+[<img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/azure-data-engineer-associate-600x600.png" alt="badge">](https://www.credly.com/earner/earned/badge/aa52b10b-83bb-43b0-92a4-599aaed5a876)
+
+</td>
+<td>
+
+[<img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="badge">](https://www.credly.com/earner/earned/badge/0c128efb-a929-4656-99ac-dc2f31305252)
+
+</td>
 </tr>
 
 <tr>
-<td>Microsoft - Azure Data Engineer Associate - DP-203 (2023)</td>
-<td>Microsoft - Azure Data Fundamentals - DP-900 (2023)</td>
+<td>
+
+[Microsoft - Azure Data Engineer Associate - DP-203 (2023)](https://www.credly.com/earner/earned/badge/aa52b10b-83bb-43b0-92a4-599aaed5a876)
+
+</td>
+<td>
+
+[Microsoft - Azure Data Fundamentals - DP-900 (2023)](https://www.credly.com/earner/earned/badge/0c128efb-a929-4656-99ac-dc2f31305252)
+
+</td>
 </tr>
 </table>
 
 ---
-
 
 <div align="center">
 
