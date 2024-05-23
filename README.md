@@ -81,7 +81,7 @@ I'm a Data Engineer and a Computer Science MSc student at the University of Novi
 ---
 
 
-<p align="center" style="font-size: 20px;">🎖️Certifications</p>
+<p align="center" style="font-size: 20px;"><b>🎖️Certifications</b></p>
 
 
 <table>
@@ -105,3 +105,12 @@ I'm a Data Engineer and a Computer Science MSc student at the University of Novi
 </tr>
 </table>
 
+---
+
+
+<div align="center">
+
+<p align="center" style="font-size: 15px;"><b>GitHub Statistics</b></p>
+
+<img src="https://streak-stats.demolab.com?user=laslo-uri&locale=en&mode=daily&theme=blue_navy&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+</div>
